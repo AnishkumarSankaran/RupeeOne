@@ -1,6 +1,6 @@
 # Direct Dependencies
 matplotlib==3.6.0  # Changed version
-Pillow==9.2.0      # Changed version
+Pillow==11.3.0  # Changed version
 sv_ttk==2.5.1
 tkcalendar==1.6.1
 
