@@ -20,9 +20,33 @@ Reliable Data Backup & Restore: Implement robust mechanisms for securely backing
 
 Modern User Interface: Features a clean, intuitive, and aesthetically pleasing dark-themed graphical user interface, engineered for optimal user experience and accessibility.
 
+Application Screenshots
+
+Here are some visual examples of the RupeeOne application's user interface:
+
+Dashboard View
+
+Dashboard Overview: A concise summary of monthly financial status, including total income, expenses, net balance, budget status, and top expense categories.
+
+Expenses Tracking
+
+Expenses Management: Add, view, edit, and delete expenses, with filtering options and a detailed monthly summary including budget status.
+
+Income Tracking
+
+Income Tracking: Record and manage all sources of income, with options to filter and search through your income history.
+
+Financial Analytics
+
+Financial Analytics - Category Distribution: Visualize your expense distribution by category for a selected year using an interactive pie chart.
+
+Data Management & Categories
+
+Data Management & Categories: Comprehensive tools for database backup, import, restore, and managing custom expense categories.
+
 Project Evolution (Version History)
 
-This project has undergone a structured and iterative development process, with each version representing a significant milestone in enhancing functionality, optimizing performance, and refining the user interface design. This evolutionary approach demonstrates a commitment to continuous improvement and agile development methodologies.
+Rome wasn't built in a day, and neither was this project! This application has undergone a structured and iterative development process, with each version representing a significant milestone in enhancing functionality, optimizing performance, and refining the user interface design. This evolutionary approach demonstrates a commitment to continuous improvement and agile development methodologies.
 
 rupeeone_v0.1.py - The Foundational Prototype
 
